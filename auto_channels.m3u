@@ -1,14 +1,15 @@
 #EXTM3U
-#EXTINF: -1 Canal Extremadura
-http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist_DVR.m3u8
-#EXTINF:-1,24h
-http://87.219.167.67:8004/play/a0gn
+
+
+
+
+
+
 #EXTINF:-1,7TV ANDALUCIA
 http://87.219.167.67:8004/play/a0fv
 #EXTINF:-1,AndaluciaTV
 http://87.219.167.67:8004/play/a0fs
-#EXTINF:-1,BOM
-http://87.219.167.67:8004/play/a0fp
+
 #EXTINF:-1,BeMad tv HD
 http://87.219.167.67:8004/play/a0gb
 #EXTINF:-1,CANAL TORREVISION
@@ -17,61 +18,241 @@ http://87.219.167.67:8004/play/a0fu
 http://87.219.167.67:8004/play/a0fl
 #EXTINF:-1,CanalSurHD
 http://87.219.167.67:8004/play/a0fo
-#EXTINF:-1,Clan
-http://87.219.167.67:8004/play/a0go
-#EXTINF:-1,Clan HD
-http://87.219.167.67:8004/play/a0gs
-#EXTINF:-1,Cuatro
-http://87.219.167.67:8004/play/a0g4
-#EXTINF:-1,Cuatro HD
-http://87.219.167.67:8004/play/a0g8
-#EXTINF:-1,DKISS
-http://87.219.167.67:8004/play/a0gv
-#EXTINF:-1,DMAX
-http://87.219.167.67:8004/play/a0h0
-#EXTINF:-1,Disney Channel
-http://87.219.167.67:8004/play/a0gy
-#EXTINF:-1,Divinity
-http://87.219.167.67:8004/play/a0g6
-#EXTINF:-1,FDF
-http://87.219.167.67:8004/play/a0g5
-#EXTINF:-1,GOL
-http://87.219.167.67:8004/play/a0h1
-#EXTINF:-1,La 1
-http://87.219.167.67:8004/play/a0gl
-#EXTINF:-1,La 1 HD
-http://87.219.167.67:8004/play/a0gp
-#EXTINF:-1,La 2
-http://87.219.167.67:8004/play/a0gm
-#EXTINF:-1,La 2 HD
-http://87.219.167.67:8004/play/a0gq
+0gq
 #EXTINF:-1,PARAMOUNT NETWORK
 http://87.219.167.67:8004/play/a0gz
 #EXTINF:-1,PTV MALAGA
 http://87.219.167.67:8004/play/a0fw
-#EXTINF:-1,Realmadrid TV HD
-http://87.219.167.67:8004/play/a0gc
 #EXTINF:-1,TEN
-http://87.219.167.67:8004/play/a0gw
-#EXTINF:-1,Telecinco
-http://87.219.167.67:8004/play/a0g3
-#EXTINF:-1,Telecinco HD
-http://87.219.167.67:8004/play/a0g7
-#EXTINF:-1,antena3
-http://87.219.167.67:8004/play/a0gf
-#EXTINF:-1,antena3 HD
-http://87.219.167.67:8004/play/a0ge
-#EXTINF:-1,atreseries HD
-http://87.219.167.67:8004/play/a0ga
-#EXTINF:-1,laSexta
-http://87.219.167.67:8004/play/a0gh
-#EXTINF:-1,laSexta HD
-http://87.219.167.67:8004/play/a0gg
-#EXTINF:-1,neox
-http://87.219.167.67:8004/play/a0gi
-#EXTINF:-1,nova
-http://87.219.167.67:8004/play/a0gj
-#EXTINF:-1,tdp
-http://87.219.167.67:8004/play/a0gt
-#EXTINF:-1,tdp HD
-http://87.219.167.67:8004/play/a0gu
+http://87.219.167.67:8004/play/a
+
+#EXTINF:-1,RadioTelevisiónCanaria
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
+
+
+
+
+#EXTINF:-1,Test
+https://cdn01.yowi.tv/503L6OKTE2/live-1000.m3u8
+
+#EXTINF: -1,24/3
+http://83.40.135.233:9090/play/a005
+#EXTINF: -1,TV3 HD
+http://83.40.135.233:9090/play/a006
+#EXTINF: -1,Esport3
+http://83.40.135.233:9090/play/a004
+#EXTINF: -1,Canal Sur
+http://83.40.135.233:9090/play/a009
+#EXTINF: -1,8tv
+http://83.40.135.233:9090/play/a002
+#EXTINF: -1,TV3
+http://83.40.135.233:9090/play/a001
+#EXTINF: -1,Súper 3/33
+http://83.40.135.233:9090/play/a003
+#EXTINF:-1,PopularTV
+http://37.152.128.19:4001/play/a00a
+#EXTINF:-1,TVM
+http://37.152.128.19:4001/play/a009
+#EXTINF:-1,7RM
+http://37.152.128.19:4001/play/a005
+#EXTINF:-1,7RM HD
+http://37.152.128.19:4001/play/a007
+#EXTINF:-1,@Onda Regional
+http://37.152.128.19:4001/play/a006
+
+
+#EXTINF: -1,Canal Parlamento
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8"
+#EXTINF: -1,Redbull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+#EXTINF: -1,Canal 45 TV
+https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
+#EXTINF: -1,Lebrija 
+https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
+#EXTINF: -1, Onda Algeciras TV
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF: -1,Teleonuba
+http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8
+#EXTINF: -1, CanalCosta
+http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8
+#EXTINF: -1, Estepona TV
+https://5b38ce71f1f00.streamlock.net/8122/8122/master.m3u8
+#EXTINF: -1, interalmería HD
+http://interalmeria.tv/directo/live.m3u8
+#EXTINF: -1, Marbella TV
+https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
+#EXTINF: -1, mijas Comunicación
+https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
+#EXTINF: -1, Costa del Sol TV
+https://secure.todostreaming.es/live/benalmadena-livestream.m3u8
+#EXTINF: -1, PTV Málaga HD
+http://149.91.98.146:1935/live/stream/playlist.m3u8
+#EXTINF: -1, PTV Córdoba HD
+http://149.91.98.146:1935/cordoba/stream/master.m3u8
+#EXTINF: -1, Canal Doñana
+https://secure.todostreaming.es/live/disvision-alm.m3u8
+#EXTINF: -1, Condavisión HD
+http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8
+#EXTINF: -1, Fuengirola TV         {
+https://secure.todostreaming.es/live/nerja-livestream.m3u8
+#EXTINF: -1, Canal Málaga
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF: -1, Cadena Elite
+https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+#EXTINF: -1, Televisión Municipal de Córdoba
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+#EXTINF: -1, ESNE TV
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+#EXTINF: -1, Canal Coín
+http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8
+#EXTINF: -1, Canal San Roque            
+https://common01.todostreaming.es/live/sanroque-livestream.m3u8
+#EXTINF: -1, Aragón TV         
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF: -1, Huesca TV"
+https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
+
+
+
+#EXTINF: -1, Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
+#EXTINF: -1, Gigante TV
+http://85.214.130.95:8080/live/stream.m3u8
+#EXTINF: -1, Televisión Mogán
+https://5b38ce71f1f00.streamlock.net/8162/8162/playlist.m3u8
+#EXTINF: -1, Tenerife 2030 TV HD         
+http://livestream.iter.es:9876/tdt/tdt.m3u8
+#EXTINF: -1, NORTEvisión
+http://ad.mysisli.com/live/aljoamy/tracks-v1a1/mono.m3u8
+#EXTINF: -1, Popular TV Cantabria
+https://secure5.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF: -1, Castilla La-Mancha
+http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8
+#EXTINF: -1, Hellin TV
+http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8
+#EXTINF: -1, Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF: -1, Canal Diocesano Toledo
+https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
+#EXTINF: -1, Canal 4 Mancha Centro HD
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF: -1, TV Benavente HD         
+https://59b782181fb20.streamlock.net:455/gcm5/gcm5/playlist.m3u8
+#EXTINF: -1, Telearanda
+https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
+#EXTINF: -1, Canal Parlament
+https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/master.m3u8
+#EXTINF: -1, Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF: -1, Canal 10 Empordà
+http://ventdelnord.tv:8080/taronja/directe.m3u8
+#EXTINF: -1, RTVCE HD
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8"
+#EXTINF: -1, El Faro
+https://livelist01.yowi.tv/lista/f086a6f43eb34591ebf89d42497a144413d0782d/master.m3u8
+#EXTINF: -1, Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist_DVR.m3u8
+#EXTINF: -1, TVG
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1, TVG 2 HD
+http://events3-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1, TVG Infantil
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1, VG Musigal HD
+http://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1, TVG Cultura HD
+http://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1, TVG Momentos G
+http://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1, Televigo
+http://5.189.181.203:1935/gcm4/gcm4/playlist.m3u8
+#EXTINF: -1, TV Ferrol
+https://directo.tvferrol.es/tv.m3u8
+#EXTINF: -1, TEF
+https://5940924978228.streamlock.net/8273/smil:8273.smil/playlist.m3u8
+#EXTINF: -1, Ibiza Global TV
+http://server10.streaming-pro.com:1937/live/ibgtvlive/master.m3u8
+#EXTINF: -1, Canal 4
+http://149.202.68.178:1935/live/peprecasens/master.m3u8
+#EXTINF: -1, Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF: -1, LaOtra
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
+#EXTINF: -1, C33 Madrid HD
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+#EXTINF: -1, Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8   
+#EXTINF: -1, Solidaria TV HD
+http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF: -1, Logos TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8         },
+#EXTINF: -1, Déjate de Historias TV
+https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8
+#EXTINF: -1, Melilla TV HD
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF: -1, Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF: -1, El Faro
+https://livelist01.yowi.tv/lista/f086a6f43eb34591ebf89d42497a144413d0782d/master.m3u8
+#EXTINF: -1, 7 RM
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF: -1, RTV Vida HD
+https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF: -1, TeleRibera
+http://37.187.7.106/teleribera/live.m3u8"
+#EXTINF: -1, ETB 1 HD
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+#EXTINF: -1, ETB 2 HD
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF: -1, ETB Deportes
+https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8
+#EXTINF: -1, Hamaika TV
+https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
+#EXTINF: -1, Goiena
+https://zuzenean.goienamedia.eus:8443/telebista.m3u8
+#EXTINF: -1, Urola Telebista
+https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
+#EXTINF: -1, Erlo Telebista
+https://5940924978228.streamlock.net/8159/8159/master.m3u8
+#EXTINF: -1, 28 Kanala HD
+https://5940924978228.streamlock.net/8157/8157/master.m3u8
+#EXTINF: -1, Oizmendi Telebista
+https://5940924978228.streamlock.net/8161/8161/master.m3u8
+#EXTINF: -1, GITB Goierri Irrati Telebista
+https://5940924978228.streamlock.net/8155/8155/master.m3u8"
+#EXTINF: -1, La 8 Mediterráneo HD
+https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8
+#EXTINF: -1, 7 TeleValencia
+https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
+#EXTINF: -1, Levante TV
+http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/master.m3u8
+#EXTINF: -1, Intercomarcal TV
+http://78.41.83.88:8880/hls/tvixa.m3u8
+#EXTINF: -1, telesafor
+http://video.telesafor.com/hls/video.m3u8
+#EXTINF: -1, Canal 56
+https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8
+#EXTINF: -1, tv-A
+http://5.39.65.105/hls/tvaxa.m3u8
+#EXTINF: -1, Alicantí TV
+http://5.39.65.105/hls/alacantixa.m3u8
+#EXTINF: -1, RiberaTV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF: -1, TV4 La Vall
+https://common01.todostreaming.es/live/tarson-livestream.m3u8
+#EXTINF: -1, TeVe4
+https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
+#EXTINF: -1, Información TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/master.m3u8
+#EXTINF: -1, PequeRadio TV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
+#EXTINF: -1, Tele Sagunto
+https://5940924978228.streamlock.net/Directo1_1/smil:Directo1_1.smil/playlist.m3u8
+#EXTINF: -1, Gestiona TV
+http://37.187.7.106/gestionatv/live.m3u8
+#EXTINF: -1, RTV Vida HD
+https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF: -1, Elche 7 TV
+http://154.60.248.32/hls/canal1.m3u8
