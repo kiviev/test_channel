@@ -1,0 +1,353 @@
+# EXTM3U
+#EXTINF: -1,[1] La 1 HD
+http://79.159.174.149:9981/stream/channelid/299620588
+#EXTINF: -1,[2] La 2 HD
+http://79.159.174.149:9981/stream/channelid/330289864
+#EXTINF: -1,[003] Antena 3 HD
+http://79.159.174.149:9981/stream/channelid/416047857
+#EXTINF: -1,[004] Cuatro HD
+http://79.159.174.149:9981/stream/channelid/964169633
+#EXTINF: -1,[005] Tele 5 HD
+http://79.159.174.149:9981/stream/channelid/1197449727
+#EXTINF: -1,[006] laSexta HD
+http://79.159.174.149:9981/stream/channelid/1478488823
+#EXTINF: -1,[007] # 0 HD
+http://79.159.174.149:9981/stream/channelid/1719895748
+#EXTINF: -1,[008] #Vamos HD
+http://79.159.174.149:9981/stream/channelid/1807795975
+#EXTINF: -1,[009] ETB 1 HD
+http://79.159.174.149:9981/stream/channelid/2079839295
+#EXTINF: -1,[009] La 7 CyLTV
+http://79.159.174.149:9981/stream/channelid/392690566
+#EXTINF: -1,[010] ETB 2 HD
+http://79.159.174.149:9981/stream/channelid/1062801672
+#EXTINF: -1,[011] Serie M. HD
+http://79.159.174.149:9981/stream/channelid/2102879255
+#EXTINF: -1,[012] M. Seriesmanía HD
+http://79.159.174.149:9981/stream/channelid/1683839647
+#EXTINF: -1,[013] FOX HD
+http://79.159.174.149:9981/stream/channelid/1457525361
+#EXTINF: -1,[014] AXN HD
+http://79.159.174.149:9981/stream/channelid/211258937
+#EXTINF: -1,[015] TNT HD
+http://79.159.174.149:9981/stream/channelid/1143153251
+#EXTINF: -1,[016] Comedia Central HD
+http://79.159.174.149:9981/stream/channelid/1357277944
+#EXTINF: -1,[017] Calle 13 HD
+http://79.159.174.149:9981/stream/channelid/1021276808
+#EXTINF: -1,[018] COSMO HD 
+http://79.159.174.149:9981/stream/channelid/2073427824
+#EXTINF: -1,[019] AMC HD
+http://79.159.174.149:9981/stream/channelid/1108237019
+#EXTINF: -1,[020] FOX life HD
+http://79.159.174.149:9981/stream/channelid/824793357
+#EXTINF: -1,[021] AXN Blanco HD
+http://79.159.174.149:9981/stream/channelid/159153832
+#EXTINF: -1,[024] MTV España
+http://79.159.174.149:9981/stream/channelid/496262597
+#EXTINF: -1,[025] FDF
+http://79.159.174.149:9981/stream/channelid/397262409
+#EXTINF: -1,[026] Neox HD
+http://79.159.174.149:9981/stream/channelid/1627592548
+#EXTINF: -1,[027] Atreseries HD
+http://79.159.174.149:9981/stream/channelid/999252592
+#EXTINF: -1,[028] Energía
+http://79.159.174.149:9981/stream/channelid/542127043
+#EXTINF: -1,[030] M. Estrenos HD
+http://79.159.174.149:9981/stream/channelid/6268650
+#EXTINF: -1,[031] M. CineDoc y Roll HD
+http://79.159.174.149:9981/stream/channelid/1353989825
+#EXTINF: -1,[032]
+http://79.159.174.149:9981/stream/channelid/382289164
+#EXTINF: -1,[033] M. Acción HD
+http://79.159.174.149:9981/stream/channelid/880418736
+#EXTINF: -1,[034] M. Comedia HD
+http://79.159.174.149:9981/stream/channelid/1625605329
+#EXTINF: -1,[035] M. Drama HD
+http://79.159.174.149:9981/stream/channelid/363247320
+#EXTINF: -1,[036] M. Cine Español
+http://79.159.174.149:9981/stream/channelid/1816260550
+#EXTINF: -1,[037] TCM HD
+http://79.159.174.149:9981/stream/channelid/938809992
+#EXTINF: -1,[038] Hollywood HD
+http://79.159.174.149:9981/stream/channelid/1184088683
+#EXTINF: -1,[039] Sundance HD
+http://79.159.174.149:9981/stream/channelid/112490176
+#EXTINF: -1,[040] OSCURO
+http://79.159.174.149:9981/stream/channelid/2002573786
+#EXTINF: -1,[041] TRECE
+http://79.159.174.149:9981/stream/channelid/890985408
+#EXTINF: -1,[042] Diez
+http://79.159.174.149:9981/stream/channelid/73255853
+#EXTINF: -1,[043] Canal supremo
+http://79.159.174.149:9981/stream/channelid/78575365
+#EXTINF: -1,[046] M. LaLiga HD
+http://79.159.174.149:9981/stream/channelid/933258002
+#EXTINF: -1,[047] M. LaLiga 1 HD
+http://79.159.174.149:9981/stream/channelid/481356841
+#EXTINF: -1,[048] M. LaLiga 2 HD
+http://79.159.174.149:9981/stream/channelid/1313234644
+#EXTINF: -1,[049] M. LaLiga 3 HD
+http://79.159.174.149:9981/stream/channelid/429369788
+#EXTINF: -1,[050] unos HD
+http://79.159.174.149:9981/stream/channelid/1773271754
+#EXTINF: -1,[051] nes 1 HD
+http://79.159.174.149:9981/stream/channelid/274958383
+#EXTINF: -1,[052] ncop 2 HD
+http://79.159.174.149:9981/stream/channelid/1886635657
+#EXTINF: -1,[053] M. Deportes HD
+http://79.159.174.149:9981/stream/channelid/1496541510
+#EXTINF: -1,[054] es 1 HD
+http://79.159.174.149:9981/stream/channelid/1548059150
+#EXTINF: -1,[057] M. Fórmula 1 HD
+http://79.159.174.149:9981/stream/channelid/103721534
+#EXTINF: -1,[058] UBEAT HD
+http://79.159.174.149:9981/stream/channelid/1933217278
+#EXTINF: -1,[059] M. Golf HD
+http://79.159.174.149:9981/stream/channelid/1311642972
+#EXTINF: -1,[060] #Vamos Bar HD
+http://79.159.174.149:9981/stream/channelid/209770622
+#EXTINF: -1,[061] Eurosport 1 HD 
+http://79.159.174.149:9981/stream/channelid/350912733
+#EXTINF: -1,[062] Eurosport 2 HD
+http://79.159.174.149:9981/stream/channelid/965838237
+#EXTINF: -1,[063] GOL HD
+http://79.159.174.149:9981/stream/channelid/1785263363
+#EXTINF: -1,[064] Teledeporte HD
+http://79.159.174.149:9981/stream/channelid/674749986
+#EXTINF: -1,[065] Caza y Pesca HD
+http://79.159.174.149:9981/stream/channelid/1047819480
+#EXTINF: -1,[066] Iberalia TV HD
+http://79.159.174.149:9981/stream/channelid/1649533129
+#EXTINF: -1,[067] Toros HD
+http://79.159.174.149:9981/stream/channelid/693920750
+#EXTINF: -1,[068] Real Madrid TV HD
+http://79.159.174.149:9981/stream/channelid/74345665
+#EXTINF: -1,[069] Barça TV HD
+http://79.159.174.149:9981/stream/channelid/14540502
+#EXTINF: -1,[070] National Geographic HD
+http://79.159.174.149:9981/stream/channelid/274849695
+#EXTINF: -1,[071] National Geographic Wild HD
+http://79.159.174.149:9981/stream/channelid/540341243
+#EXTINF: -1,[072] Historia
+http://79.159.174.149:9981/stream/channelid/4385233
+#EXTINF: -1,[073] Descubrimiento HD
+http://79.159.174.149:9981/stream/channelid/753669940
+#EXTINF: -1,[074] ODISEA HD
+http://79.159.174.149:9981/stream/channelid/266458583
+#EXTINF: -1,[075] BLAZE
+http://79.159.174.149:9981/stream/channelid/2086234259
+#EXTINF: -1,[076] Viajar HD
+http://79.159.174.149:9981/stream/channelid/59565673
+#EXTINF: -1,[077] DMAX
+http://79.159.174.149:9981/stream/channelid/1072217575
+#EXTINF: -1,[078] Crimen + Inv
+http://79.159.174.149:9981/stream/channelid/1880007482
+#EXTINF: -1,[080] Cocina
+http://79.159.174.149:9981/stream/channelid/1927171861
+#EXTINF: -1,[081] Decasa
+http://79.159.174.149:9981/stream/channelid/158077648
+#EXTINF: -1,[082] DKISS
+http://79.159.174.149:9981/stream/channelid/962370217
+#EXTINF: -1,[083] Divinidad
+http://79.159.174.149:9981/stream/channelid/1655351434
+#EXTINF: -1,[084] Nova HD
+http://79.159.174.149:9981/stream/channelid/1965194107
+#EXTINF: -1,[085] MEGA HD
+http://79.159.174.149:9981/stream/channelid/379151485
+#EXTINF: -1,[086] BeMad HD
+http://79.159.174.149:9981/stream/channelid/2114807752
+#EXTINF: -1,[087] Garaje TV
+http://79.159.174.149:9981/stream/channelid/91971460
+#EXTINF: -1,[089] Futbol Replay
+http://79.159.174.149:9981/stream/channelid/1227419083
+#EXTINF: -1,[090] Baby TV
+http://79.159.174.149:9981/stream/channelid/1668067174
+#EXTINF: -1,[091] Disney Junior
+http://79.159.174.149:9981/stream/channelid/204087568
+#EXTINF: -1,[092] Canal Panda
+http://79.159.174.149:9981/stream/channelid/15568450
+#EXTINF: -1,[093] Nick Jr
+http://79.159.174.149:9981/stream/channelid/981379993
+#EXTINF: -1,[094] Nickelodeon HD
+http://79.159.174.149:9981/stream/channelid/592143440
+#EXTINF: -1,[095] Disney XD
+http://79.159.174.149:9981/stream/channelid/81587449
+#EXTINF: -1,[096] Disney Channel HD
+http://79.159.174.149:9981/stream/channelid/35636527
+#EXTINF: -1,[097] Boing
+http://79.159.174.149:9981/stream/channelid/1086054461
+#EXTINF: -1,[098] Clan TVE HD
+http://79.159.174.149:9981/stream/channelid/52905499
+#EXTINF: -1,[099] ETB 3
+http://79.159.174.149:9981/stream/channelid/137766035
+#EXTINF: -1,[105] VH1
+http://79.159.174.149:9981/stream/channelid/143085043
+#EXTINF: -1,[112] Canal 24 H
+http://79.159.174.149:9981/stream/channelid/531433398
+#EXTINF: -1,[145] LaLiga TV Bar HD
+http://79.159.174.149:9981/stream/channelid/446844897
+#EXTINF: -1,[154] ETB sáb.
+http://79.159.174.149:9981/stream/channelid/1811743546
+#EXTINF: -1,[186] ncop 3
+http://79.159.174.149:9981/stream/channelid/926134903
+#EXTINF: -1,[187] ncop 4
+http://79.159.174.149:9981/stream/channelid/401234230
+#EXTINF: -1,[188] ncop 5
+http://79.159.174.149:9981/stream/channelid/1744423181
+#EXTINF: -1,[189] ncop 6
+http://79.159.174.149:9981/stream/channelid/1711051361
+#EXTINF: -1,[190] n. 7
+http://79.159.174.149:9981/stream/channelid/879472356
+#EXTINF: -1,[191] ncop 8
+http://79.159.174.149:9981/stream/channelid/1669078379
+#EXTINF: -1,[S001] La 1
+http://79.159.174.149:9981/stream/channelid/336931749
+#EXTINF: -1,[S002] La 2
+http://79.159.174.149:9981/stream/channelid/2079838139
+#EXTINF: -1,[S003] Antena 3
+http://79.159.174.149:9981/stream/channelid/1092184167
+#EXTINF: -1,[S004] Cuatro
+http://79.159.174.149:9981/stream/channelid/1846282526
+#EXTINF: -1,[S005] Tele 5
+http://79.159.174.149:9981/stream/channelid/1859099468
+#EXTINF: -1,[S006] laSexta
+http://79.159.174.149:9981/stream/channelid/422094691
+#EXTINF: -1,[S007] # 0
+http://79.159.174.149:9981/stream/channelid/358933244
+#EXTINF: -1,[S008] #Vamos
+http://79.159.174.149:9981/stream/channelid/1842452105
+#EXTINF: -1,[S009] ETB 1
+http://79.159.174.149:9981/stream/channelid/2095878150
+#EXTINF: -1,[S010] ETB 2
+http://79.159.174.149:9981/stream/channelid/1732415846
+#EXTINF: -1,[S011] Serie M.
+http://79.159.174.149:9981/stream/channelid/899900453
+#EXTINF: -1,[S012] M. Seriesmanía
+http://79.159.174.149:9981/stream/channelid/2051198262
+#EXTINF: -1,[S013] FOX
+http://79.159.174.149:9981/stream/channelid/2058349304
+#EXTINF: -1,[S014] AXN
+http://79.159.174.149:9981/stream/channelid/1993903756
+#EXTINF: -1,[S015] TNT
+http://79.159.174.149:9981/stream/channelid/1314366480
+#EXTINF: -1,[S016] Comedia Central
+http://79.159.174.149:9981/stream/channelid/1279612
+#EXTINF: -1,[S017] Calle 13
+http://79.159.174.149:9981/stream/channelid/611135863
+#EXTINF: -1,[S018] COSMO
+http://79.159.174.149:9981/stream/channelid/1061906077
+#EXTINF: -1,[S019] AMC
+http://79.159.174.149:9981/stream/channelid/718972730
+#EXTINF: -1,[S020] FOX life
+http://79.159.174.149:9981/stream/channelid/1406165856
+#EXTINF: -1,[S021] AXN Blanco
+http://79.159.174.149:9981/stream/channelid/211915766
+#EXTINF: -1,[S022] Syfy
+http://79.159.174.149:9981/stream/channelid/1487996791
+#EXTINF: -1,[S026] Neox
+http://79.159.174.149:9981/stream/channelid/415491231
+#EXTINF: -1,[S027] Atreseries
+http://79.159.174.149:9981/stream/channelid/154019116
+#EXTINF: -1,[S030] M. Estrenos
+http://79.159.174.149:9981/stream/channelid/530650676
+#EXTINF: -1,[S031] M. Cine Doc y Roll
+http://79.159.174.149:9981/stream/channelid/249920509
+#EXTINF: -1,[S033] M. Acción
+http://79.159.174.149:9981/stream/channelid/1046884968
+#EXTINF: -1,[S034] M. Comedia
+http://79.159.174.149:9981/stream/channelid/572129397
+#EXTINF: -1,[S035] M. Drama
+http://79.159.174.149:9981/stream/channelid/1312657318
+#EXTINF: -1,[S037] TCM
+http://79.159.174.149:9981/stream/channelid/1019356659
+#EXTINF: -1,[S038] Hollywood
+http://79.159.174.149:9981/stream/channelid/1075384257
+#EXTINF: -1,[S039] Sundance
+http://79.159.174.149:9981/stream/channelid/343594711
+#EXTINF: -1,[s046] M. LaLiga
+http://79.159.174.149:9981/stream/channelid/1707892043
+#EXTINF: -1,[S047] M. LaLiga 1
+http://79.159.174.149:9981/stream/channelid/50595738
+#EXTINF: -1,[S048] M. LaLiga 2
+http://79.159.174.149:9981/stream/channelid/1769205113
+#EXTINF: -1,[S049] M. LaLiga 3
+http://79.159.174.149:9981/stream/channelid/1152831960
+#EXTINF: -1,[S050] unos
+http://79.159.174.149:9981/stream/channelid/1825584964
+#EXTINF: -1,[S051] unos 1
+http://79.159.174.149:9981/stream/channelid/2070253361
+#EXTINF: -1,[S052] unos 2
+http://79.159.174.149:9981/stream/channelid/1390856977
+#EXTINF: -1,[S053] M. Deportes
+http://79.159.174.149:9981/stream/channelid/1222069707
+#EXTINF: -1,[S054] es 1
+http://79.159.174.149:9981/stream/channelid/12900237
+#EXTINF: -1,[S057] M. Fórmula 1
+http://79.159.174.149:9981/stream/channelid/7515639
+#EXTINF: -1,[S059] M. Golf
+http://79.159.174.149:9981/stream/channelid/1018405710
+#EXTINF: -1,[S060] Vamos Bar
+http://79.159.174.149:9981/stream/channelid/400436537
+#EXTINF: -1,[S061] Eurosport 1
+http://79.159.174.149:9981/stream/channelid/809700505
+#EXTINF: -1,[S062] Eurosport 2
+http://79.159.174.149:9981/stream/channelid/1534027390
+#EXTINF: -1,[S063] GOL
+http://79.159.174.149:9981/stream/channelid/1820041174
+#EXTINF: -1,[S064] Teledeporte
+http://79.159.174.149:9981/stream/channelid/1431853163
+#EXTINF: -1,[S065] Caza y Pesca
+http://79.159.174.149:9981/stream/channelid/60575704
+#EXTINF: -1,[S067] Toros
+http://79.159.174.149:9981/stream/channelid/838125831
+#EXTINF: -1,[S068] TV del Real Madrid
+http://79.159.174.149:9981/stream/channelid/1529923755
+#EXTINF: -1,[S069] Barça TV
+http://79.159.174.149:9981/stream/channelid/1752735197
+#EXTINF: -1,[S070] National Geographic
+http://79.159.174.149:9981/stream/channelid/1564401056
+#EXTINF: -1,[S071] National Geographic Wild
+http://79.159.174.149:9981/stream/channelid/1487490679
+#EXTINF: -1,[S073] Descubrimiento
+http://79.159.174.149:9981/stream/channelid/1624988219
+#EXTINF: -1,[S074] Odisea
+http://79.159.174.149:9981/stream/channelid/2059002273
+#EXTINF: -1,[S076] Viajar
+http://79.159.174.149:9981/stream/channelid/2012581525
+#EXTINF: -1,[S084] Nova
+http://79.159.174.149:9981/stream/channelid/2130685646
+#EXTINF: -1,[S085] MEGA
+http://79.159.174.149:9981/stream/channelid/2128846296
+#EXTINF: -1,[S086] BeMad
+http://79.159.174.149:9981/stream/channelid/487490856
+#EXTINF: -1,[S094] Nickelodeon
+http://79.159.174.149:9981/stream/channelid/96056257
+#EXTINF: -1,[S096] Disney Channel
+http://79.159.174.149:9981/stream/channelid/366493273
+#EXTINF: -1,[S098] Clan TVE
+http://79.159.174.149:9981/stream/channelid/856508985
+#EXTINF: -1,[S145] LaLiga TV Bar
+http://79.159.174.149:9981/stream/channelid/825431458
+#EXTINF: -1,[S146] LaLiga TV Bar 1
+http://79.159.174.149:9981/stream/channelid/2114983748
+#EXTINF: -1,[S147] LaLiga TV Bar 2
+http://79.159.174.149:9981/stream/channelid/739945095
+#EXTINF: -1,[S148] LaLiga TV Bar 3
+http://79.159.174.149:9981/stream/channelid/306418979
+#EXTINF: -1,[S149] LaLiga TV Bar 4
+http://79.159.174.149:9981/stream/channelid/1459572306
+#EXTINF: -1,[S176] M. LaLiga 4
+http://79.159.174.149:9981/stream/channelid/214665565
+#EXTINF: -1,[S177] M. LaLiga 5
+http://79.159.174.149:9981/stream/channelid/24401875
+#EXTINF: -1,[S178] M. LaLiga 6
+http://79.159.174.149:9981/stream/channelid/1755873825
+#EXTINF: -1,[S179] M. LaLiga 7
+http://79.159.174.149:9981/stream/channelid/291848356
+#EXTINF: -1,[S180] M. LaLiga 8
+http://79.159.174.149:9981/stream/channelid/310969459
+#EXTINF: -1,[S181] M. LaLiga 9
+http://79.159.174.149:9981/stream/channelid/1496954686
+#EXTINF: -1,[S182] M. LaLiga 10
+http://79.159.174.149:9981/stream/channelid/1587413003
